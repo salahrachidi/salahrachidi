@@ -1,7 +1,6 @@
-[![srachidi's 42 stats](https://badge.mediaplus.ma/greenbinary/srachidi)](https://github.com/salahrachidi)
+<h2 align="left">Hi 👋! My name is Salaheddine, and I'm an ambitious IT enthusiast.</h2>
 
-<h1 align="center">Hi 👋, I'm Salah eddine Rachidi</h1>
-<h3 align="center">A ful-stack developer from morocco</h3>
+[![srachidi's 42 stats](https://badge.mediaplus.ma/greenbinary/srachidi)](https://github.com/salahrachidi)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salahrachidi&label=Profile%20views&color=0e75b6&style=flat" alt="salahrachidi" /> </p>
 
