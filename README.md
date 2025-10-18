@@ -17,9 +17,8 @@ No matter the priority — **speed, scalability, or innovation** — I’ll get 
 ---
 
 ## 🚀 Currently Working On
-- 🕹️ [**ft_transcendence**](https://github.com/salahrachidi/ft_transcendence) — a full-stack multiplayer pong game built with NestJS, React, and Docker.
-- 🎨 [**Cub3D**](https://github.com/salahrachidi/cub3d) — a 3D raycasting engine inspired by Wolfenstein 3D.
-- 🧠 [**Minishell**](https://github.com/salahrachidi/minishell) — a lightweight Unix shell built in C.
+- 🕹️ [**ft_transcendence**](https://github.com/salahrachidi/ft_transcendence) — a full-stack multiplayer pong game built with NextJS, Tailwindcss,React, and Docker.
+- 🚗 [**VadisTachy**](https://github.com/salahrachidi/VadisTachy) — a web platform for managing vehicle inspections and tachograph services.
 
 ---
 
