@@ -17,8 +17,10 @@ No matter the priority — **speed, scalability, or innovation** — I’ll get 
 ---
 
 ## 🚀 Currently Working On
-- 🕹️ [**ft_transcendence**](https://github.com/salahrachidi/ft_transcendence) — a full-stack multiplayer pong game built with NextJS, Tailwindcss,React, and Docker.
-- 🚗 [**VadisTachy**](https://github.com/salahrachidi/VadisTachy) — a web platform for managing vehicle inspections and tachograph services.
+- 🕹️ [**ft_transcendence**](#) ![status](https://img.shields.io/badge/status-in--progress-yellow)  
+  A full-stack multiplayer pong game built with NestJS, React, and Docker.
+- 🚗 [**VadisTachy**](#) ![status](https://img.shields.io/badge/status-in--progress-yellow)  
+  A web platform for managing vehicle inspections and tachograph services.
 
 ---
 
