@@ -96,12 +96,12 @@ No matter the priority — **speed, scalability, or innovation** — I’ll get 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=salahrachidi&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=salahrachidi&theme=transparent&hide_border=true)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salahrachidi&layout=compact?font=Redressed)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salahrachidi&layout=compact)
 
 ---
 
 ### ✍️ Random Dev Quote
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=socrates)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=socrates&font=Redressed)
 
 ---
 
