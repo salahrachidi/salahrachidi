@@ -17,7 +17,7 @@ No matter the priority — **speed, scalability, or innovation** — I’ll get 
 ---
 
 ## 🚀 Currently Working On
-- 🕹️ [**ft_transcendence**](#) ![status](https://img.shields.io/badge/status-in--progress-yellow)  
+- 🕹️ [**ft_transcendence**](#) ![status](https://img.shields.io/badge/status-done-green)  
   A full-stack multiplayer pong game built with NestJS, React, and Docker.
 - 🚗 [**VadisTachy**](#) ![status](https://img.shields.io/badge/status-in--progress-yellow)  
   A web platform for managing vehicle inspections and tachograph services.
